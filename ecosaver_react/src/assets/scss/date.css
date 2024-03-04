@@ -1,0 +1,13 @@
+.example-custom-input {
+    background-color: #216ba5;
+    /* background-color: #ffffff; */
+    border: 1px solid #098df3;
+    /* border-radius: 4px; */
+    color: hsl(0, 0%, 100%);
+    cursor: pointer;
+    font: inherit;
+    padding: 5px 15px;
+}
+.container {
+	grid-template-columns: repeat(auto-fill, minmax(10%, auto));
+}
