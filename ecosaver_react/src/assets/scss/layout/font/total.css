@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Medium" ;
+    src: url("./IBMPlexSansKR-Medium.ttf");
+} 
+@font-face {
+    font-family: "SemiBold" ;
+    src: url("./IBMPlexSansKR-SemiBold.ttf");
+}   
+@font-face {
+    font-family: "Bold" ;
+    src: url("./IBMPlexSansKR-Bold.ttf");
+}
+@font-face {
+    font-family: "light" ;
+    src: url("./IBMPlexSansKR-Light.ttf");
+}
+.header_text {
+    text-align: center;
+    font-size: '27px';
+    line-height: 1.5;
+    color: 'white';
+  }
+.pointer {
+    cursor: pointer;
+}
+#headbar {background-color: rgba(44,56,74,0.95);}
+#headbar2 {background-color: #4f5d73;}
+#headbar3 {background-color: rgb(48,60,84);}
+/* #1D3461 */
+/* AFDBF5 */
+/* 376996 */
+#cardcolor {background-color: #1F487E; box-shadow: 4px 4px 4px 4px #bebebe;}
+#cardcolor2 {background-color: #1C77C3; box-shadow: 4px 4px 4px 4px #bebebe;}
+#cardcolor3 {background-color: #39A9DB; box-shadow: 4px 4px 4px 4px #bebebe;}
+#cardcolor4 {background-color: #40BCD8; box-shadow: 4px 4px 4px 4px #bebebe;}
+/* #cardcolor {background-color: #2667FF; box-shadow: 4px 4px 4px 4px gray;}
+#cardcolor2 {background-color: #3F8EFC; box-shadow: 4px 4px 4px 4px gray;}
+#cardcolor3 {background-color: #87BFFF; box-shadow: 4px 4px 4px 4px gray;}
+#cardcolor4 {background-color: #ADD7F6; box-shadow: 4px 4px 4px 4px gray;} */
