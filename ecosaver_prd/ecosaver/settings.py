@@ -151,7 +151,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql', # mysqlclient librarly 설치
         'NAME': 'ecosaver_dev',
         'USER': 'root',
-        'PASSWORD': 'qwe123!@#', # mariaDB 설치 시 입력한 root 비밀번호 입력
+        'PASSWORD': '0000', # mariaDB 설치 시 입력한 root 비밀번호 입력
         'HOST': '127.0.0.1',
         'PORT': '3306'
     }
