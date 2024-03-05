@@ -93,7 +93,7 @@ const Power = () => {
   const [unit, setunit] = useState('') // x축 라벨
 
 
-  const back_url = 'http://127.0.0.1/main/'
+  const back_url = 'http://127.0.0.1:8000/main/'
 
   // console.log(startDate.toISOString().slice(2, 10))
 

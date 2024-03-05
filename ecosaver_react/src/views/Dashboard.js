@@ -32,7 +32,7 @@ import { redirect } from "react-router-dom";
 
 
 const Chartt = () => {
-  const back_url = 'http://127.0.0.1/main/'
+  const back_url = 'http://127.0.0.1:8000/main/'
   const back_url2 = 'http://121.131.210.83/kepco'
 
 
