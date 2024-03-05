@@ -89,7 +89,7 @@ const Power = () => {
     datasets: [],
   });
 
-  const back_url = 'http://121.131.210.83/main/'
+  const back_url = 'http://127.0.0.1/main/'
 
   //프로그래스1
   const [loading, setLoading] = useState(false);
