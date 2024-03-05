@@ -60,7 +60,7 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'ecosaver.urls'
 
-CORS_ORIGIN_ALLOW_ALL = False #(모든 포트 허용)
+CORS_ORIGIN_ALLOW_ALL = True #(모든 포트 허용)
 
 CORS_ORIGIN_WHITELIST = [
     'http://121.131.210.83',
